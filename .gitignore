@@ -10,6 +10,7 @@
 .DS_Store
 .attach_pid*
 .classpath
+
 .factorypath
 .gradle
 .metadata
@@ -41,3 +42,4 @@ secrets.yml
 .sts4-cache
 .git-hooks/
 node_modules
+application.properties
